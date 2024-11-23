@@ -1,2 +1,2 @@
-# mernexample-frontend
+# mernexample-client
 MERN stack app's frontend
