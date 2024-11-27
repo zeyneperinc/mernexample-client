@@ -26,9 +26,7 @@ const Record = ({ record, deleteRecord }) => (
 );
 
 export default function RecordList() {
-  // const apiURL = "https://employeemern.herokuapp.com/";
 
-  //local backend
   const localURL = process.env.apiBackend;
 
   const override = css`
