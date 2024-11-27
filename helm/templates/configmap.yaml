@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: client-configmap
+data:
+    apiBackend: "my-mern-example.com" # Backend API'yi işaret eden URL
+    apiBackend_port: "5001"
